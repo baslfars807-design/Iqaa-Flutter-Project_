@@ -20,7 +20,7 @@ dependencies:
   intl: ^0.20.3
   fl_chart: ^0.66.0
   flutter_svg: ^2.0.9
-  purchases_flutter: ^6.0.0
+  purchases_flutter: ^10.1.8
   shared_preferences: ^2.2.2
 
 dev_dependencies:
